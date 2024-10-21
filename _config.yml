@@ -21,7 +21,7 @@ repository               : "PGAcarlesi/PGAcarlesi.github"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/profilepic.jpeg"
+  avatar           : "/files/file.png"
   name             : "Piergiacomo Andrea Carlesi"
   pronouns         : # example: "she/her"  
   bio              : ""
