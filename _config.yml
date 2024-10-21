@@ -12,7 +12,7 @@ title                    : ""
 title_separator          : ""
 name                     : &name "Piergiacomo Andrea Carlesi"
 description              : &description "This is my personal page"
-url                      : https://PGAcarlesi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://PGAcarlesi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PGAcarlesi/PGAcarlesi.github.io.github.io"
 
