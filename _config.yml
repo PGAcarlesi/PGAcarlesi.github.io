@@ -21,11 +21,11 @@ repository               : "PGAcarlesi/PGAcarlesi.github"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/files/profilepic.jpeg"
   name             : "Piergiacomo Andrea Carlesi"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Singapore"
+  location         : "Singapore/Padova"
   employer         : "Università degli Studi di Padova"
   uri              : # URL
   email            : "piergiacomo.carlesi@gmail.com"
