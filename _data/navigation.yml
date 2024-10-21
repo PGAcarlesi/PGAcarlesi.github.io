@@ -7,7 +7,7 @@
 main:
     
   - title: "CV"
-    url: /files/resume.pdf
+    url: /_files/resume.pdf
   - title: "ciao"
-    url: /files/file.png
+    url: /_files/file.png
 
